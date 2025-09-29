@@ -16,15 +16,15 @@ The turtle draws unique parametric shapes based on user selection.
 
 ### Lissajous
 
-![Hypotrochoid](media/lissajous.png)
+![Lissajous](media/lissajous.png)
 
 ### Epicycloid
 
-![Rose Curve](media/epicycloid.png)
+![Epicycloid](media/epicycloid.png)
 
 ### Torus Knot
 
-![Butterfly](media/torus_knot.png)
+![Torus Knot](media/torus_knot.png)
 
 
 Features:
