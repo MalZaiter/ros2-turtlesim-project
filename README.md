@@ -3,7 +3,8 @@ ROS2 Turtlesim Project
 
 Demo:
 -----
-See the turtle drawing custom shapes in the Turtlesim window (demo GIF/video should be placed in media/demo.gif).
+See the turtle drawing custom shapes in the Turtlesim window 
+![Demo](media/demo.gif)
 
 Description:
 ------------
