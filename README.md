@@ -4,12 +4,28 @@ ROS2 Turtlesim Project
 Demo:
 -----
 See the turtle drawing custom shapes in the Turtlesim window 
+
 ![Demo](media/demo.gif)
 
 Description:
 ------------
 This ROS2 project demonstrates custom shape drawing with Turtlesim.
 The turtle draws unique parametric shapes based on user selection.
+
+## Shapes Preview
+
+### Lissajous
+
+![Hypotrochoid](media/lissajous.png)
+
+### Epicycloid
+
+![Rose Curve](media/epicycloid.png)
+
+### Torus Knot
+
+![Butterfly](media/torus_knot.png)
+
 
 Features:
 ---------
