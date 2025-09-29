@@ -48,5 +48,3 @@ Notes:
 - Python scripts should be executable (chmod +x turtleCommander.py) if needed.
 - Works with ROS2 Humble/Foxy/Galactic (adjust commands for your version).
 
---------
-MIT License. See LICENSE file for details.
